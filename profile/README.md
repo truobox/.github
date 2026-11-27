@@ -4,8 +4,9 @@
 
 **[Truobox](https://www.truobox.com/?utm_source=github&utm_medium=referral&utm_campaign=org-profile)** ofrece VPS KVM con disco NVMe, IPv4 dedicada y tráfico ilimitado, hosting web y WordPress, con soporte en español.
 
-## Benchmarks públicos
+## Repositorios
 
+- 🚀 **[vps-apps](https://github.com/truobox/vps-apps)**: instala n8n, Coolify, WordPress, Supabase, Portainer, EasyPanel, CyberPanel, OpenClaw o un servidor de Minecraft en tu VPS con un comando, con Docker y HTTPS automático.
 - 📊 **[vps-benchmarks](https://github.com/truobox/vps-benchmarks)**: resultados de YABS del VPS de Truobox comparados con OVHcloud, AWS Lightsail, Google Cloud, DigitalOcean, Vultr, IONOS y UpCloud.
 
 ## Enlaces
